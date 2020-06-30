@@ -10,7 +10,7 @@ import android.widget.Toast;
 
 public class ActionBarMenuActivity extends Activity {
 
-	@SuppressLint("NewApichange1")
+	@SuppressLint("NewApichange2")
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
